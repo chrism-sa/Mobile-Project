@@ -1,6 +1,6 @@
-# agriplant
+# AGRIPLANT
 
-A new Flutter project.
+My Project for Mobile Programming
 
 ## Getting Started
 
