@@ -1,36 +1,36 @@
-# AGRIPLANT: Your Ultimate Mobile Agriculture Companion
+# AGRIPLANT
 
-Welcome to the world of AGRIPLANT, a revolutionary Flutter application designed to empower farmers, gardeners, and plant enthusiasts in cultivating a greener, more bountiful world. With AGRIPLANT, you can harness the power of technology to transform your agricultural endeavors.
+Selamat datang di dunia AGRIPLANT, sebuah aplikasi Flutter revolusioner yang dirancang untuk memberdayakan para petani, pekebun, dan pecinta tanaman dalam menumbuhkan dunia yang lebih hijau dan berlimpah. Dengan AGRIPLANT, Anda dapat memanfaatkan kekuatan teknologi untuk mengubah upaya pertanian Anda.
 
-## About AGRIPLANT
+## Tentang AGRIPLANT
 
-AGRIPLANT is not just another mobile app; it's your go-to tool for all things related to farming, gardening, and plant care. Whether you're a seasoned farmer or just starting with your backyard garden, AGRIPLANT has something for everyone.
+AGRIPLANT bukan sekadar aplikasi seluler biasa; ini adalah alat andalan Anda untuk semua yang berkaitan dengan pertanian, kebun, dan perawatan tanaman. Baik Anda seorang petani berpengalaman atau baru saja memulai kebun halaman belakang Anda, AGRIPLANT memiliki sesuatu untuk semua orang.
 
-## Features
+## Fitur
 
-### 1. Plant Care Assistant
-AGRIPLANT comes with a comprehensive plant care assistant that helps you monitor the health of your plants. Receive real-time notifications about watering schedules, sunlight requirements, and even disease prevention tips. Say goodbye to wilted leaves and hello to thriving greenery!
+### 1. Asisten Perawatan Tanaman
+AGRIPLANT dilengkapi dengan asisten perawatan tanaman yang komprehensif yang membantu Anda memantau kesehatan tanaman Anda. Terima pemberitahuan waktu nyata tentang jadwal penyiraman, persyaratan sinar matahari, dan bahkan tips pencegahan penyakit. Katakan selamat tinggal pada daun layu dan sambut tumbuh suburnya tanaman Anda!
 
-### 2. Crop Management
-For professional farmers, AGRIPLANT offers robust crop management tools. Keep track of planting dates, harvest times, and soil conditions to optimize your crop yield. Our smart analytics will help you make data-driven decisions.
+### 2. Manajemen Tanaman
+Bagi petani profesional, AGRIPLANT menawarkan alat manajemen tanaman yang tangguh. Pantau tanggal penanaman, waktu panen, dan kondisi tanah untuk mengoptimalkan hasil panen Anda. Analitik pintar kami akan membantu Anda membuat keputusan berdasarkan data.
 
-### 3. Garden Planner
-Planning a garden has never been easier! Use AGRIPLANT to design your garden layout, select the best-suited plants, and get a virtual preview of your green paradise.
+### 3. Perencana Kebun
+Merencanakan kebun belum pernah semudah ini! Gunakan AGRIPLANT untuk merancang tata letak kebun Anda, memilih tanaman yang paling cocok, dan dapatkan pratinjau virtual dari surga hijau Anda.
 
-### 4. Knowledge Hub
-Access a vast library of agricultural resources and articles. Learn about the latest farming techniques, pest control strategies, and innovative practices to enhance your plant care expertise.
+### 4. Basis Pengetahuan
+Akses perpustakaan sumber daya pertanian dan artikel yang luas. Pelajari tentang teknik pertanian terbaru, strategi pengendalian hama, dan praktik inovatif untuk meningkatkan keahlian perawatan tanaman Anda.
 
-### 5. Community Engagement
-Connect with a thriving community of fellow plant enthusiasts and exchange tips, stories, and advice. Share your garden's progress or seek help with plant-related challenges.
+### 5. Keterlibatan Komunitas
+Terhubunglah dengan komunitas yang berkembang pesat dari sesama pecinta tanaman dan bertukar tips, cerita, dan saran. Bagikan perkembangan kebun Anda atau minta bantuan dengan tantangan terkait tanaman.
 
-## Getting Started with AGRIPLANT
+## Memulai dengan AGRIPLANT
 
-Are you ready to embark on your journey with AGRIPLANT? Here's how to get started:
+Apakah Anda siap memulai petualangan Anda dengan AGRIPLANT? Berikut cara memulainya:
 
-- **Lab:** Dive into our step-by-step guide to building your first garden and managing your plants effectively.
+- **Lab:** Mulailah dengan panduan langkah demi langkah kami untuk membangun kebun pertama Anda dan mengelola tanaman Anda secara efektif.
 
-- **Cookbook:** Explore a treasure trove of practical gardening tips, tricks, and sample projects to make your agricultural pursuits a breeze.
+- **Cookbook:** Jelajahi berbagai tips, trik, dan proyek sampel praktis untuk membuat upaya pertanian Anda menjadi lebih mudah.
 
-For comprehensive guidance on developing your mobile agricultural app, visit our [online documentation](https://docs.flutter.dev/). AGRIPLANT is here to make your green dreams come true.
+Untuk panduan komprehensif tentang pengembangan aplikasi pertanian seluler Anda. AGRIPLANT hadir untuk menjadikan impian hijau Anda menjadi kenyataan.
 
-Get ready to experience the future of farming and plant care with AGRIPLANT!
+Siap-siaplah untuk mengalami masa depan pertanian dan perawatan tanaman dengan AGRIPLANT!
