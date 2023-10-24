@@ -1,7 +1,7 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:agriplant/data/category.dart';
-import 'package:agriplant/pages/cart_page.dart'; // Mengimpor CartPage
+import 'package:agriplant/pages/category_detail_page.dart'; // Mengimpor CatDetailPage
 
 class CategoryPage extends StatelessWidget {
   const CategoryPage({Key? key});
@@ -24,7 +24,7 @@ class CategoryPage extends StatelessWidget {
               Navigator.push(
                 context,
                 MaterialPageRoute(
-                  builder: (context) => CartPage(
+                  builder: (context) => CatDetailPage(
                     category: Categorys[index]
                         .kategori, // Mengirimkan kategori terkait
                   ),

@@ -39,7 +39,7 @@ class _ProductDetailsPageState extends State<ProductDetailsPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Details"),
+        title: const Text("Detail Product"),
         actions: [
           IconButton(
             onPressed: () {},
@@ -63,7 +63,7 @@ class _ProductDetailsPageState extends State<ProductDetailsPage> {
             ),
           ),
           Text(
-            widget.product.name,
+            '${widget.product.name} ''-'' ${widget.product.kategori}',
             style: Theme.of(context).textTheme.titleLarge,
           ),
           const SizedBox(height: 5),
@@ -104,7 +104,9 @@ class _ProductDetailsPageState extends State<ProductDetailsPage> {
               const Spacer(),
             ],
           ),
-          const SizedBox(height: 20,),
+          const SizedBox(
+            height: 20,
+          ),
           Text("Description",
               style: Theme.of(context)
                   .textTheme
@@ -165,7 +167,6 @@ class _ProductDetailsPageState extends State<ProductDetailsPage> {
             ),
           ),
           const SizedBox(height: 20),
-          
         ],
       ),
     );

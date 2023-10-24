@@ -1,5 +1,5 @@
 import 'package:agriplant/pages/explore_page.dart';
-import 'package:agriplant/pages/notificationpage.dart';
+//import 'package:agriplant/pages/notificationpage.dart';
 import 'package:agriplant/pages/profile_page.dart';
 import 'package:agriplant/pages/category_page.dart';
 import 'package:badges/badges.dart' as badges;
@@ -44,10 +44,7 @@ class _HomePageState extends State<HomePage> {
             padding: const EdgeInsets.only(right: 8.0),
             child: IconButton.filledTonal(
               onPressed: () {
-                Navigator.push(
-                  context,
-                  MaterialPageRoute(builder: (context) => NotificationPage()),
-                );
+                
               },
               icon: badges.Badge(
                 badgeContent: const Text(

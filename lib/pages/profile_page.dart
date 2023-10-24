@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_iconly/flutter_iconly.dart';
-import 'package:agriplant/pages/aboutme.dart';
-import 'package:agriplant/pages/onboarding_page.dart';
+//import 'package:agriplant/pages/aboutme.dart';
+//import 'package:agriplant/pages/onboarding_page.dart';
 class ProfilePage extends StatelessWidget {
   const ProfilePage({super.key});
 

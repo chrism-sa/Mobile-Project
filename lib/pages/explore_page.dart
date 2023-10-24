@@ -47,7 +47,7 @@ class ExplorePage extends StatelessWidget {
               ],
             ),
           ),
-          
+          SizedBox(height: 10,),
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
@@ -55,9 +55,9 @@ class ExplorePage extends StatelessWidget {
                 "Featured Products",
                 style: Theme.of(context).textTheme.titleMedium,
               ),
-              
             ],
           ),
+          SizedBox(height: 15,),
           GridView.builder(
             itemCount: products.length,
             shrinkWrap: true,

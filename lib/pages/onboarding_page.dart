@@ -29,7 +29,6 @@ class OnboardingPage extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
               ),
-              /**/
               FilledButton.tonalIcon(
                 onPressed: () {
                   Navigator.of(context).pushReplacement(CupertinoPageRoute(builder: (context) => const HomePage()));
