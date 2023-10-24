@@ -40,10 +40,7 @@ class ProfilePage extends StatelessWidget {
             leading: const Icon(IconlyLight.infoSquare),
             onTap: () {
               // Navigasi ke halaman "About Me"
-              Navigator.push(
-                context,
-                MaterialPageRoute(builder: (context) => AboutMePage()),
-              );
+              
             },
           ),
           ListTile(
@@ -51,13 +48,8 @@ class ProfilePage extends StatelessWidget {
             leading: const Icon(IconlyLight.logout),
             onTap: () {
               // Tambahkan kode navigasi ke halaman utama di sini
-              Navigator.of(context).pushAndRemoveUntil(
-                MaterialPageRoute(
-                  builder: (context) => OnboardingPage(),
-                ),
-                (route) =>
-                    false, // Menghapus semua route yang ada di dalam Navigator
-              );
+              
+                
             },
           ),
         ],
